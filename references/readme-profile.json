@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 137｜Etching Texture Collage: strips a photo down to its key subject, deleting background and secondary objects, and redraws it in fine vintage etching-style line art with a little parallel hatching, cross-hatching and stippling, overlaid with one or two rough modern colour blocks that look roller- or screen-printed, in a few brightened colours from the photo on warm white or ivory, as a very small focal point inside vast, continuous clean whitespace with small art-book typography. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-137 or asks for etching, engraving line art with modern textured colour blocks, or minimalist art print posters from a photo.",
+  "short_description": "蚀刻肌理拼贴志：用纤细蚀刻线画出极小主体，叠一两块粗粝印刷色块，四周全是留白",
+  "zh-CN": {
+    "name": "蚀刻肌理拼贴志",
+    "tagline": "用纤细的蚀刻线画出一个极小的主体，再叠上一两块粗粝的印刷色块。",
+    "look": "照片里的背景、环境和次要物件基本全部删掉，只剩主体，用纤细的复古蚀刻版画线条画出，关键结构处加少量平行排线、交叉排线和点刻。主体局部压着一两块带滚筒或丝网印刷颗粒的现代色块，古典线描和当代平面设计叠在一起。颜色从照片里取少量最鲜活的，提亮提纯，配暖白或象牙白纸。主体缩得很小，四周是大片连续、干净的留白；只有几个小号、疏朗的字。",
+    "traits": [
+      "纤细蚀刻线描",
+      "少量排线点刻",
+      "一两块粗粝印刷色块",
+      "极小焦点",
+      "连续干净留白"
+    ],
+    "good": [
+      "主体轮廓清楚、背景可以完全去掉的照片：一只鹿、一把椅子、一只花瓶、一个站着的人",
+      "动物、植物和器物这类适合线描的对象",
+      "想做成艺术版画、展览海报或书籍内页的照片"
+    ],
+    "poor": [
+      "必须保留环境才能看懂的照片：风景全景、街景、室内全貌",
+      "需要完整色彩或写实渲染的人像、产品",
+      "想要画面丰富、填满或卡通、3D 的效果"
+    ]
+  },
+  "en": {
+    "name": "Etching Texture Collage",
+    "tagline": "Draws a tiny subject in fine etching lines, then lays one or two rough printed colour blocks over it.",
+    "look": "Almost everything but the subject is removed from the photo, including background, setting and secondary objects. The subject is drawn in fine vintage etching-style lines, with a little parallel hatching, cross-hatching and stippling where the structure matters. One or two modern colour blocks with roller or screen-print grain sit over parts of it, so classical line work meets contemporary graphic design. A few of the photo's liveliest colours are brightened and cleaned, on warm white or ivory paper. The subject is very small inside wide, continuous, clean whitespace, with just a few small, airy words.",
+    "traits": [
+      "Fine etching line",
+      "A little hatching and stipple",
+      "One or two rough print blocks",
+      "Tiny focal point",
+      "Continuous clean whitespace"
+    ],
+    "good": [
+      "Photos with a clear subject whose background can go entirely: a deer, a chair, a vase, a standing figure",
+      "Animals, plants and objects that suit line drawing",
+      "Photos for an art print, exhibition poster or book page"
+    ],
+    "poor": [
+      "Photos that only make sense with their setting: wide landscapes, street scenes, full interiors",
+      "Portraits or products that need full colour or realistic rendering",
+      "Requests for a rich, filled frame, or cartoon or 3D looks"
+    ]
+  },
+  "ja": {
+    "name": "エッチング質感コラージュ",
+    "tagline": "細いエッチングの線でごく小さな主役を描き、ざらついた印刷の色面を一、二枚重ねます。",
+    "look": "写真の背景、周囲、脇役はほぼすべて消し、主役だけを細いレトロなエッチング版画の線で描きます。構造の要所には少しの平行線、クロスハッチング、点刻を入れます。主役の一部には、ローラーやシルクスクリーンの粒子がある現代的な色面を一、二枚重ね、古典的な線描と現代のグラフィックデザインを出会わせます。色は写真からいちばん生き生きとした数色を明るく澄ませ、温かい白やアイボリーの紙と合わせます。主役はごく小さく、周りは途切れのないきれいな余白。小さくゆったりした文字を少しだけ置きます。",
+    "traits": [
+      "細いエッチング線",
+      "少しのハッチングと点刻",
+      "ざらついた印刷の色面一、二枚",
+      "ごく小さな焦点",
+      "途切れないきれいな余白"
+    ],
+    "good": [
+      "主役がはっきりして背景を丸ごと消せる写真：鹿、椅子、花瓶、立っている人",
+      "動物、植物、器など線描に向く対象",
+      "アートプリント、展覧会ポスター、本のページにしたい写真"
+    ],
+    "poor": [
+      "周りの環境がないと伝わらない写真：風景の全景、街並み、室内全体",
+      "フルカラーや写実的な描写が必要な人物写真や商品",
+      "情報の多い埋まった画面や、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "에칭 질감 콜라주",
+    "tagline": "가는 에칭 선으로 아주 작은 주인공을 그리고 거친 인쇄 색면을 한두 장 겹칩니다.",
+    "look": "사진의 배경, 주변 환경, 곁가지 사물은 거의 모두 지우고 주인공만 가는 레트로 에칭 판화 선으로 그립니다. 구조가 중요한 곳에만 평행 해칭, 교차 해칭, 점각을 조금 넣습니다. 주인공 일부에는 롤러나 실크스크린 입자가 있는 현대적인 색면을 한두 장 겹쳐 고전 선화와 현대 그래픽 디자인이 만나게 합니다. 색은 사진에서 가장 생기 있는 몇 가지를 밝고 맑게 다듬어 따뜻한 흰색이나 상아색 종이와 맞춥니다. 주인공은 아주 작고 주변은 끊김 없는 깨끗한 여백이며, 작고 여유로운 글자 몇 개만 둡니다.",
+    "traits": [
+      "가는 에칭 선화",
+      "약간의 해칭과 점각",
+      "거친 인쇄 색면 한두 장",
+      "아주 작은 초점",
+      "끊김 없는 깨끗한 여백"
+    ],
+    "good": [
+      "주인공이 분명하고 배경을 통째로 지울 수 있는 사진: 사슴, 의자, 꽃병, 서 있는 사람",
+      "동물, 식물, 그릇처럼 선화에 어울리는 대상",
+      "아트 프린트, 전시 포스터, 책 페이지로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "주변 환경이 있어야 이해되는 사진: 풍경 전경, 거리 풍경, 실내 전체",
+      "풀 컬러나 사실적인 묘사가 필요한 인물 사진이나 제품",
+      "풍성하게 꽉 찬 화면, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج الحفر والملمس",
+    "tagline": "يرسم عنصراً ضئيلاً بخطوط حفر رفيعة، ثم يضع فوقه كتلة أو كتلتين لونيتين مطبوعتين بخشونة.",
+    "look": "يُحذف من الصورة كل شيء تقريباً عدا العنصر الرئيسي، بما في ذلك الخلفية والمحيط والأشياء الثانوية. يُرسم العنصر بخطوط رفيعة على طريقة الحفر القديم، مع قليل من التظليل المتوازي والمتقاطع والتنقيط حيث تهم البنية. وتستقر فوق أجزاء منه كتلة أو كتلتان لونيتان حديثتان بحبيبات طباعة الأسطوانة أو الشاشة الحريرية، فيلتقي الخط الكلاسيكي بالتصميم الجرافيكي المعاصر. تُؤخذ من الصورة ألوان قليلة هي الأكثر حيوية وتُفتَّح وتُصفّى، على ورق أبيض دافئ أو عاجي. العنصر صغير جداً وسط فراغ واسع متصل ونظيف، مع كلمات قليلة صغيرة متباعدة.",
+    "traits": [
+      "خط حفر رفيع",
+      "قليل من التظليل والتنقيط",
+      "كتلة أو كتلتان مطبوعتان بخشونة",
+      "نقطة تركيز ضئيلة",
+      "فراغ متصل ونظيف"
+    ],
+    "good": [
+      "صور فيها عنصر واضح يمكن حذف خلفيته كلياً: غزال، كرسي، مزهرية، شخص واقف",
+      "حيوانات ونباتات وأوانٍ تناسب الرسم الخطي",
+      "صور لطبعة فنية أو ملصق معرض أو صفحة كتاب"
+    ],
+    "poor": [
+      "صور لا تُفهم إلا بمحيطها: مناظر طبيعية واسعة، مشاهد شوارع، أماكن داخلية كاملة",
+      "صور شخصية أو منتجات تحتاج إلى ألوان كاملة أو تمثيل واقعي",
+      "طلب إطار غني ممتلئ أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}
